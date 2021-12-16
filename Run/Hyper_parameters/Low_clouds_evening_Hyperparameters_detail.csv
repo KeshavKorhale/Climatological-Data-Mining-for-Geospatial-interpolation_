@@ -1,0 +1,13 @@
+property,month,kernel,gamma,C,epsilon,E_In,E_Out,E_In_%,E_Out_%,No_of_Support_Vectors,Train_data_size,Test_data_size
+LC2,JAN,rbf,scale,5,0.1,0.38,0.64,62.48,62.06,32,201,53
+LC2,FEB,rbf,scale,11,0.1,0.37,0.73,57.65,65.56,33,201,53
+LC2,MAR,rbf,scale,24,0.1,0.39,0.77,66.49,65.38,38,201,53
+LC2,APR,rbf,scale,31,0.1,0.5,0.88,61.85,55.84,59,201,53
+LC2,MAY,rbf,scale,15,0.1,0.62,0.82,57.46,39.54,75,201,53
+LC2,JUN,rbf,scale,2,0.1,0.83,0.73,36.1,22.94,78,201,53
+LC2,JUL,rbf,scale,39,0.1,0.87,0.82,23.31,20.57,68,201,53
+LC2,AUG,rbf,scale,1,0.1,0.94,0.8,24.74,20.21,73,201,53
+LC2,SEP,rbf,scale,1,0.1,0.77,0.65,30.5,22.34,68,201,53
+LC2,OCT,rbf,scale,12,0.1,0.46,0.57,35.79,30.41,52,201,53
+LC2,NOV,rbf,scale,2,0.1,0.44,0.53,66.39,58.98,25,201,53
+LC2,DEC,rbf,scale,13,0.1,0.38,0.55,65.83,57.89,46,201,53
